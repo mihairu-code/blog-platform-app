@@ -1,5 +1,5 @@
 import "../styles/List.less"
-import ArticlesCard from "../Copmonents/ArticlesCard.jsx"
+import ArticlesCard from "./ArticlesCard.jsx"
 import React from 'react';
 import { Pagination } from '@gravity-ui/uikit';
 
